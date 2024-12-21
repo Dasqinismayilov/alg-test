@@ -1,0 +1,25 @@
+.container {
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    display: flex;
+    background-color: lime;
+    border: 3px solid black;
+
+    border-radius: 20px;
+
+
+}
+
+.item {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    border: solid black 1px;
+    border-radius: 20px;
+}
+
+.boz {
+    color: grey;
+}
